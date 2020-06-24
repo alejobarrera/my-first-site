@@ -1,5 +1,5 @@
 body {
-    background-color: #e3a7fa;
+    background-color: #b1e4f2;
     font-family: Arial;
     text-align: center;
     display: flex;
@@ -11,8 +11,13 @@ body {
                   
   h1 {
     font-size: 72px;
+    color: #540373;
   }
-                    
+     
+  h2 {
+    font-size: 55px;
+    color: #085e10;
+  }
   p {
     font-size: 28px;
   }
